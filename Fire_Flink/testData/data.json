@@ -1,0 +1,22 @@
+{
+	"url": "https://demowebshop.tricentis.com/",
+	"firstName": "Apoorva",
+	"lastName": "Mangalore",
+	"address": [
+		{
+			"street": "Kattriguppe",
+			"city": "Bangalore",
+			"state": "Karnataka"
+		},
+		{
+			"street": "KHB",
+			"city": "Sirsi",
+			"state": "Karnataka"
+		},
+		{
+			"street": "KHB",
+			"city": "Sirsi",
+			"state": "Karnataka"
+		}
+	]
+}

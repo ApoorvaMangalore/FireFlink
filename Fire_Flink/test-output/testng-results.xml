@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T10:39:15 IST" name="Default suite" finished-at="2024-03-29T10:39:24 IST" duration-ms="8250">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T10:39:15 IST" name="Default test" finished-at="2024-03-29T10:39:24 IST" duration-ms="8250">
+      <class name="genricLib.ToReadDataFromPropFile">
+        <test-method signature="openBrowser()[pri:0, instance:genricLib.ToReadDataFromPropFile@44a7bfbc]" started-at="2024-03-29T10:39:15 IST" name="openBrowser" finished-at="2024-03-29T10:39:24 IST" duration-ms="8136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- genricLib.ToReadDataFromPropFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
